@@ -5,3 +5,6 @@ node_modules/
 .env
 .env.*
 !.env.example
+
+# Local MSO runtime state — never commit
+.mso/
